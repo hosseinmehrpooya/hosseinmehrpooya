@@ -1,6 +1,6 @@
 ### Hi there and welcome to my github page.
 
-Most of my github repositories are small **game development/tooling**, **reverse engineering**, and **system programming** projects. if you're interested in these topics, don't hesitate to stick with me.
+Most of my github repositories are small **game development/tooling**, **reverse engineering**, and **systems programming** projects. if you're interested in these topics, don't hesitate to stick with me.
 
 <br>
 
